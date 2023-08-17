@@ -1,4 +1,4 @@
-# HI! MUNDO FITNNES {nombre de ecommerce}
+# HI! MUNDO FITNNES 
 ## Sobre Nosotros
 _Somos una comunidad que nos gusta el ambito fitnnes, y nos gustaria ayudarte a sacar tu mejor potencial._
 ## Productos
